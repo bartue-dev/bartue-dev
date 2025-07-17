@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bartue-dev
 - 👀 I’m interested in creating software
-- 🌱 I’m currently Learning stuff and building fullStack apps
+- 🌱 I’m currently Learning stuff and building Full Stack web apps
 - 📫 How to reach me, bartbatiancila28@gmail.com
 
 ### TECH STACK/SKILLS
